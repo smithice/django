@@ -1,2 +1,3 @@
 # django
-django
+Django Project
+hello world!
